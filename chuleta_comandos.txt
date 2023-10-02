@@ -1,0 +1,21 @@
+ssh-keygen --> genera clave ssh para identificar al pc
+
+
+git clone *pegar link del repo* --> clona el repo a la carpeta
+
+git config --global user.email *email de identificacion* --> configurar mail de acceso
+
+git status --> illo capasao (recomendado antes y despues de cada otro comando!)
+
+git pull --> descargar cambios del repo remoto
+
+git add --> añadir cambios al repo remoto
+
+git commit -m "mensaje" --> empaquetado de cambios añadidos en local
+
+git push --> subida del commit
+
+
+otros comandos en caso de problemas:
+git merge
+git checkout
